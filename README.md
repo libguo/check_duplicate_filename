@@ -11,13 +11,13 @@ Quickstart
 -----------
 Clone code to a local directory and then execute below.
 
-export PYTHONPATH="./log_check"
+export PYTHONPATH="./check_duplicate_filename"
 
 python3 log_check.py <log file name>
 
 Test
 --------
 
-export PYTHONPATH="./log_check"
+export PYTHONPATH="./check_duplicate_filename"
 
 python3 tests/test.py
